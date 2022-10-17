@@ -3,7 +3,7 @@
 
 2.devBoard:eps32
 
-3.framework arduino
+3.framework：arduino
 
 4.OS：freeRTOS
 
